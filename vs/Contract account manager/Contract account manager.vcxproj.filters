@@ -15,15 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Contract account manager.cpp">
+    <ClCompile Include="CReadExcelFile.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="CReadExcelFile.cpp">
+    <ClCompile Include="SendMail.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CReadExcelFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="log.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="data_log.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SendMail.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,8 +1,20 @@
-﻿  Contract account manager.cpp
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(19,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(22,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(32,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(35,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(42,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(45,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  Contract account manager.vcxproj -> E:\project\Contract account manager\vs\Contract account manager\x64\Debug\Contract account manager.exe
+﻿  SendMail.cpp
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(123,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(131,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(140,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(142,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(151,40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(153,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(163,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(170,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(177,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(184,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(191,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\SendMail.cpp(205,20): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+  main.cpp
+D:\project\Contract account manager\vs\Contract account manager\main.cpp(56,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\main.cpp(59,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\main.cpp(66,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\project\Contract account manager\vs\Contract account manager\main.cpp(69,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Contract account manager.vcxproj -> D:\project\Contract account manager\vs\Contract account manager\x64\Debug\Contract account manager.exe

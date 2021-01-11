@@ -80,8 +80,8 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>E:\project\Contract account manager\lib\libxl-3.8.3.0\include_cpp;$(IncludePath)</IncludePath>
-    <LibraryPath>E:\project\Contract account manager\lib\libxl-3.8.3.0\lib64;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\project\Contract account manager\lib\libxl-3.8.3.0\include_cpp;$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
@@ -148,11 +148,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Contract account manager.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="CReadExcelFile.cpp" />
+    <ClCompile Include="SendMail.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CReadExcelFile.h" />
+    <ClInclude Include="data_log.h" />
+    <ClInclude Include="log.h" />
+    <ClInclude Include="SendMail.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
