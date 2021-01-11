@@ -1,0 +1,8 @@
+﻿  Contract account manager.cpp
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(19,99): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(22,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(32,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(35,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(42,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\project\Contract account manager\vs\Contract account manager\Contract account manager.cpp(45,63): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Contract account manager.vcxproj -> E:\project\Contract account manager\vs\Contract account manager\x64\Debug\Contract account manager.exe

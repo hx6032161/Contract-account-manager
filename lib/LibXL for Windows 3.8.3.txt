@@ -1,0 +1,7 @@
+
+创建工作薄对象后使用setKey方法进行注册。
+Book* book = xlCreateBook();
+book->setKey(L"TommoT", L"windows-2421220b07c2e10a6eb96768a2p7r6gc");
+
+https://blog.csdn.net/zt_xcyk/article/details/72846042
+https://www.cnblogs.com/sixbeauty/p/3757712.html

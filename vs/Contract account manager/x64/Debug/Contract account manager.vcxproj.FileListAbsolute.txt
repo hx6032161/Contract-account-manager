@@ -1,0 +1,2 @@
+E:\project\Contract account manager\vs\Contract account manager\x64\Debug\Contract account manager.exe
+E:\project\Contract account manager\vs\Contract account manager\x64\Debug\Contract account manager.pdb
