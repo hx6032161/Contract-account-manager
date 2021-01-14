@@ -188,7 +188,6 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="ExcelHandleManager.h" />
     <ClInclude Include="framework.h" />
     <ClInclude Include="MFCTEST.h" />
     <ClInclude Include="MFCTESTDlg.h" />
@@ -197,7 +196,8 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ExcelHandleManager.cpp" />
+    <ClCompile Include="ExcelHandleFun.cpp" />
+    <ClCompile Include="ExcelHandleFun.h" />
     <ClCompile Include="MFCTEST.cpp" />
     <ClCompile Include="MFCTESTDlg.cpp" />
     <ClCompile Include="pch.cpp">

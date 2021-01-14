@@ -9,6 +9,16 @@
 
 // 添加要在此处预编译的标头
 #include "framework.h"
-#include "ExcelHandleManager.cpp"
 #pragma comment(lib,"libxl.lib")
+
+#include <vector>
+#include<Windows.h>
+#include <iostream>
+#include <map>
+#include <sstream>
+#include <locale.h>
+#include <fcntl.h>
+#include <io.h>   
+#include <stdio.h>
+
 #endif //PCH_H
